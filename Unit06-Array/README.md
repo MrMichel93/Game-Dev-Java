@@ -67,3 +67,19 @@ Complete lessons and materials are in development!
 ## Next Unit
 
 Proceed to [Unit 7: ArrayList](../Unit07-ArrayList/README.md) for dynamic collections.
+
+## Unit Contents
+
+### Lessons
+- [Lesson 1: Arrays](lessons/Lesson1-Arrays.md)
+
+### Practice Problems
+1. [High Scores](practice-problems/Problem1_HighScores.java)
+2. [Enemy Manager](practice-problems/Problem2_EnemyManager.java)
+3. [Inventory Search](practice-problems/Problem3_InventorySearch.java)
+
+### Code Examples
+- [GameInventory.java](code-examples/GameInventory.java)
+
+### Projects
+- [Level System](projects/LevelSystem.md)

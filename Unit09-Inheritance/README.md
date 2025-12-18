@@ -82,10 +82,12 @@ for (Enemy e : enemies) {
 - [Lesson 1: Enemy Hierarchies with Inheritance](lessons/Lesson1-Enemy-Hierarchies.md) ✓ Available
 
 ### Practice Problems
-Coming soon: 3 problems on inheritance, overriding, and polymorphism
+1. [PowerUp Hierarchy](practice-problems/Problem1_PowerUpHierarchy.java)
+2. [Weapon Types](practice-problems/Problem2_WeaponTypes.java)
+3. [Vehicle Hierarchy](practice-problems/Problem3_VehicleHierarchy.java)
 
 ### Projects
-Coming soon: Complete RPG enemy system with inheritance
+- [Tower Defense Entity System](projects/TowerDefenseEntities.md)
 
 ## Prerequisites
 

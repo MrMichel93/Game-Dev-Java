@@ -73,3 +73,19 @@ Complete lessons and materials are in development!
 ## Next Unit
 
 Proceed to [Unit 9: Inheritance](../Unit09-Inheritance/README.md) to learn class hierarchies!
+
+## Unit Contents
+
+### Lessons
+- [Lesson 1: 2D Arrays](lessons/Lesson1-2D-Arrays.md)
+
+### Practice Problems
+1. [Tile Counter](practice-problems/Problem1_TileCounter.java)
+2. [Grid Search](practice-problems/Problem2_GridSearch.java)
+3. [Border Fill](practice-problems/Problem3_BorderFill.java)
+
+### Code Examples
+- [GridMap.java](code-examples/GridMap.java)
+
+### Projects
+- [Maze Generator](projects/MazeGenerator.md)

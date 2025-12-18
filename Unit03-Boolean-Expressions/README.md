@@ -49,9 +49,21 @@ if (health < 25) {
 - **Power-up Effects:** Conditional bonuses
 - **AI Decision Making:** Enemy behavior based on conditions
 
-## Coming Soon
+## Unit Contents
 
-Complete lessons and materials are in development!
+### Lessons
+- [Lesson 1: Conditionals and Game Logic](lessons/Lesson1-Conditionals-and-Logic.md)
+
+### Practice Problems
+1. [Collision Checker](practice-problems/Problem1_CollisionChecker.java)
+2. [Game State Manager](practice-problems/Problem2_GameStateManager.java)
+3. [Boundary Checker](practice-problems/Problem3_BoundaryChecker.java)
+
+### Code Examples
+- [CollisionDetector.java](code-examples/CollisionDetector.java)
+
+### Projects
+- [Collision Detection System](projects/CollisionSystem.md)
 
 ## Prerequisites
 
