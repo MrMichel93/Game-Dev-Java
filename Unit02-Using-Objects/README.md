@@ -83,16 +83,26 @@ int rounded = (int)Math.round(value);
 - Understanding object references vs values
 - null references and NullPointerException
 
-## Coming Soon
+## Unit Contents
 
-Complete lessons, practice problems, and projects for Unit 2 are in development!
+### Lessons
+- [Lesson 1: Objects and Methods](lessons/Lesson1-Objects-and-Methods.md)
+  - Object instantiation and the new keyword
+  - Calling void and non-void methods
+  - String class and methods
+  - Math class for game calculations
+  - Object references vs primitives
 
-### Planned Content
-- Lesson 1: Creating and Using Sprite Objects
-- Lesson 2: String Manipulation for Game Text
-- Lesson 3: Math Class for Game Calculations
-- Practice Problems: Object usage, String methods, Math operations
-- Project: Interactive Sprite System
+### Practice Problems
+1. [Name Formatter](practice-problems/Problem1_NameFormatter.java) - String manipulation with title case
+2. [Item Spawner](practice-problems/Problem2_ItemSpawner.java) - Random positioning with Math class
+3. [String Comparison Debug](practice-problems/Problem3_StringComparison.java) - Fix String comparison bugs
+
+### Code Examples
+- [SpriteManager.java](code-examples/SpriteManager.java) - Complete example of object usage
+
+### Projects
+- [Interactive Sprite System](projects/SpriteSystem.md) - Build a sprite management system
 
 ## Prerequisites
 
