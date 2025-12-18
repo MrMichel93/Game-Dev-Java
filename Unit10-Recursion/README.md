@@ -126,16 +126,21 @@ Common patterns:
 3. Convert iterative to recursive
 4. Identify base and recursive cases
 
-## Coming Soon
+## Unit Contents
 
-Complete lessons and materials are in development!
+### Lessons
+- [Lesson 1: Recursion](lessons/Lesson1-Recursion.md)
 
-### Planned Content
-- Lesson 1: Recursion Fundamentals with Game Examples
-- Lesson 2: Recursive Algorithms (Flood Fill, Pathfinding)
-- Lesson 3: Advanced Recursion (Backtracking, Memoization)
-- Practice Problems: 3 recursive game algorithms
-- Project: Procedural Dungeon Generator
+### Practice Problems
+1. [Sum Recursive](practice-problems/Problem1_SumRecursive.java)
+2. [Power Recursive](practice-problems/Problem2_PowerRecursive.java)
+3. [Array Sum](practice-problems/Problem3_ArraySum.java)
+
+### Code Examples
+- [RecursiveExamples.java](code-examples/RecursiveExamples.java)
+
+### Projects
+- [Maze Pathfinder](projects/MazePathfinder.md)
 
 ## Prerequisites
 

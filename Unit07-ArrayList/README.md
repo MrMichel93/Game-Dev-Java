@@ -75,3 +75,19 @@ Complete lessons and materials are in development!
 ## Next Unit
 
 Proceed to [Unit 8: 2D Array](../Unit08-2D-Array/README.md) for grid-based systems.
+
+## Unit Contents
+
+### Lessons
+- [Lesson 1: ArrayList](lessons/Lesson1-ArrayList.md)
+
+### Practice Problems
+1. [Enemy List](practice-problems/Problem1_EnemyList.java)
+2. [Quest Log](practice-problems/Problem2_QuestLog.java)
+3. [Particle System](practice-problems/Problem3_ParticleSystem.java)
+
+### Code Examples
+- [DynamicInventory.java](code-examples/DynamicInventory.java)
+
+### Projects
+- [Bullet Manager](projects/BulletManager.md)

@@ -56,9 +56,21 @@ for (int row = 0; row < grid.length; row++) {
 - **Animation Frames:** iterating through sprite frames
 - **Grid Games:** nested loops for tile-based systems
 
-## Coming Soon
+## Unit Contents
 
-Complete lessons and materials are in development!
+### Lessons
+- [Lesson 1: Loops and Iteration](lessons/Lesson1-Loops-and-Iteration.md)
+
+### Practice Problems
+1. [Enemy Spawner](practice-problems/Problem1_EnemySpawner.java)
+2. [Grid Generator](practice-problems/Problem2_GridGenerator.java)
+3. [Collision Loop](practice-problems/Problem3_CollisionLoop.java)
+
+### Code Examples
+- [GameLoop.java](code-examples/GameLoop.java)
+
+### Projects
+- [Particle System](projects/ParticleSystem.md)
 
 ## Prerequisites
 

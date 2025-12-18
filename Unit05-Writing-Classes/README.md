@@ -74,10 +74,12 @@ public class Player {
 - [Lesson 1: Writing the Player Class](lessons/Lesson1-Player-Class.md) ✓ Available
 
 ### Practice Problems
-Coming soon: 3 problems on class design and implementation
+1. [Weapon Class](practice-problems/Problem1_WeaponClass.java)
+2. [Inventory Class](practice-problems/Problem2_InventoryClass.java)
+3. [Enemy Class](practice-problems/Problem3_EnemyClass.java)
 
 ### Projects
-Coming soon: Complete game character system
+- [RPG Character System](projects/RPGCharacterSystem.md)
 
 ## Prerequisites
 
